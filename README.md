@@ -1,4 +1,4 @@
-# 👋 Ahoj, jsem Honza!
+# 👋 Ahoj, jsem Honza! (Viking)
 
 Frontend developer | React & TypeScript nadšenec
 
