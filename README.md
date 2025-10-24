@@ -64,4 +64,4 @@
 
 ### 📫 Contact
 - **LinkedIn**: [linkedin.com/in/jan-szotkowski-089295159](https://www.linkedin.com/in/jan-szotkowski-089295159/)
-- **Podcast**: [s-rozumem.cz](https://s-rozumem.cz)
+- **Podcast**: [s-rozumem.cz](https://www.youtube.com/@SRozumem)
