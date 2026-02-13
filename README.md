@@ -1,15 +1,18 @@
 # 👋 Hi, I’m Honza! (Viking)
 
-**Frontend developer passionate about React, TypeScript, and philosophy.**
+**Frontend Developer passionate about React, TypeScript, and Philosophy.**
+
+> *"I know that I know nothing."* — Socrates.
+> This paradox guides my journey. In both coding and life, I believe that the more we discover, the more we realize how much there is still to learn. This constant evolution is what drives me forward.
 
 ---
 
 ### 📖 About Me
-- 🔥 **Over 6 years of experience as a frontend developer**.
-- 💼 **Current Role**: Frontend Developer at RAYNET s.r.o., working on modern CRM application with React and TypeScript.
-- 💡 **Philosophy enthusiast**: I’m deeply interested in Stoicism and its practical applications in modern life.
-- 🎙 **Stoicism Podcast**: In 2024, I launched a podcast focused on Stoic principles, sharing insights and tips for a balanced life.
-- 🌍 **Traveler and self-learner**: I love exploring new technologies and ideas.
+- 🔥 **Frontend Expert**: Over 7 years of experience building complex web applications.
+- 💼 **Current Role**: Frontend Developer at **RAYNET s.r.o.**, crafting a modern CRM with React and TypeScript.
+- 💡 **Philosophy Enthusiast**: Deeply interested in **Stoicism** and its practical application in a developer's high-paced life.
+- 🎙 **Podcaster**: I host [S Rozumem](https://www.youtube.com/@SRozumem), where I share insights on Stoic principles and balanced living.
+- ✍️ **Blogger**: I explore the intersection of technology and thought at [vimzenicnevim.cz](https://vimzenicnevim.cz/).
 
 ---
 
@@ -40,9 +43,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 
-#### Tools & Validation Libraries
+#### Tools & Package Managers
+![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=flat-square&logo=eslint&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-%234B32C3.svg?style=flat-square&logo=zod&logoColor=white)
 
 #### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
@@ -50,9 +53,9 @@
 
 ---
 
-### 🚀 My Projects
-- **[Custom ESLint Rule](https://github.com/janszotkowski/eslint-plugin-interface-to-type)** [![npm version](https://img.shields.io/npm/v/eslint-plugin-interface-to-type.svg)](https://www.npmjs.com/package/eslint-plugin-interface-to-type)  [![downloads](https://img.shields.io/npm/dm/eslint-plugin-interface-to-type.svg)](https://www.npmjs.com/package/eslint-plugin-interface-to-type)  
-  🛠 **Description**: An ESLint rule that automatically converts `interface` to `type` in TypeScript code, ensuring consistent type definitions.  
+### 🚀 Projects
+- **[Custom ESLint Rule](https://github.com/janszotkowski/eslint-plugin-interface-to-type)** [![npm version](https://img.shields.io/npm/v/eslint-plugin-interface-to-type.svg)](https://www.npmjs.com/package/eslint-plugin-interface-to-type)
+  🛠 **Problem Solver**: I prefer `type` over `interface` for consistency. I built this ESLint rule to automate the conversion and keep codebases clean.
   🚀 **Tech Stack**: TypeScript, ESLint.
 
 ---
@@ -62,6 +65,7 @@
 
 ---
 
-### 📫 Contact
-- **LinkedIn**: [linkedin.com/in/jan-szotkowski-089295159](https://www.linkedin.com/in/jan-szotkowski-089295159/)
-- **Podcast**: [s-rozumem.cz](https://www.youtube.com/@SRozumem)
+### 📫 Connect with me
+- **Blog**: [vimzenicnevim.cz](https://vimzenicnevim.cz/) 🌐
+- **LinkedIn**: [Jan Szotkowski](https://www.linkedin.com/in/jan-szotkowski-089295159/) 💼
+- **Podcast**: [S Rozumem (YouTube)](https://www.youtube.com/@SRozumem) 🎙
